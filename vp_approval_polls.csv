@@ -1,0 +1,76 @@
+Politician,Polling Organization,StartDate,EndDate,N,Sample,Approve,Disapprove,Neither,NetApp
+Kamala Harris,Redfield & Wilton Strategies,5/17/2022,5/17/2022,1500,RV,37,45,18,-8
+Kamala Harris,Leger,5/13/2022,5/15/2022,1000,A,41,57,2,-16
+Kamala Harris,Redfield & Wilton Strategies,5/1/2022,5/1/2022,1500,RV,36,43,21,-7
+Kamala Harris,Leger,4/29/2022,5/1/2022,1005,A,40,58,2,-18
+Kamala Harris,Beacon Research/Shaw & Company,4/28/2022,5/1/2022,1003,RV,41,53,5,-12
+Kamala Harris,Trafalgar Group,4/18/2022,4/20/2022,1077,LV,28.5,62.6,8.9,-34.1
+Kamala Harris,Redfield & Wilton Strategies,4/18/2022,4/18/2022,1500,RV,36,46,19,-10
+Kamala Harris,YouGov,4/9/2022,4/12/2022,1500,A,39,48,14,-9
+Kamala Harris,YouGov,4/9/2022,4/12/2022,1303,RV,41,49,10,-8
+Kamala Harris,Redfield & Wilton Strategies,4/3/2022,4/3/2022,1500,RV,37,43,20,-6
+Kamala Harris,Redfield & Wilton Strategies,3/20/2022,3/20/2022,1500,RV,37,43,21,-6
+Kamala Harris,Leger,3/18/2022,3/20/2022,1000,A,42,56,2,-14
+Kamala Harris,Saint Leo U.,2/28/2022,3/12/2022,1000,A,40.3,51.9,7.8,-11.6
+Kamala Harris,Redfield & Wilton Strategies,3/8/2022,3/8/2022,1500,RV,34,43,23,-9
+Kamala Harris,Leger,3/4/2022,3/6/2022,1003,A,44,54,3,-10
+Kamala Harris,Redfield & Wilton Strategies,2/23/2022,2/23/2022,1500,RV,37,42,22,-5
+Kamala Harris,Beacon Research/Shaw & Company,2/19/2022,2/22/2022,1001,RV,40,56,4,-16
+Kamala Harris,Redfield & Wilton Strategies,2/6/2022,2/6/2022,1500,RV,36,43,21,-7
+Kamala Harris,Leger,2/4/2022,2/6/2022,1005,A,40,57,3,-17
+Kamala Harris,Zogby,1/21/2022,1/24/2022,897,LV,43.3,48.5,8.2,-5.2
+Kamala Harris,Leger,1/21/2022,1/23/2022,1000,A,42,56,2,-14
+Kamala Harris,Beacon Research/Shaw & Company,1/16/2022,1/19/2022,1001,RV,43,54,3,-11
+Kamala Harris,YouGov,1/12/2022,1/14/2022,2094,A,44,56,0,-12
+Kamala Harris,Redfield & Wilton Strategies,1/8/2022,1/9/2022,1500,RV,35,43,23,-8
+Kamala Harris,Suffolk,12/27/2021,12/30/2021,1000,RV,32.3,47.4,20.3,-15.1
+Kamala Harris,YouGov,12/14/2021,12/20/2021,1000,A,35,53,13,-18
+Kamala Harris,Redfield & Wilton Strategies,12/18/2021,12/18/2021,1500,RV,37,41,23,-4
+Kamala Harris,Gallup,12/1/2021,12/16/2021,811,A,44,54,1,-10
+Kamala Harris,HarrisX,12/6/2021,12/7/2021,926,RV,43,50,7,-7
+Kamala Harris,Redfield & Wilton Strategies,12/5/2021,12/5/2021,1500,RV,35,42,24,-7
+Kamala Harris,Leger,12/3/2021,12/5/2021,1004,A,41,57,2,-16
+Kamala Harris,Leger,11/19/2021,11/21/2021,1001,A,42,55,3,-13
+Kamala Harris,HarrisX,11/16/2021,11/18/2021,2787,RV,40,43,0,-3
+Kamala Harris,Beacon Research/Shaw & Company,11/14/2021,11/17/2021,1003,RV,40,53,7,-13
+Kamala Harris,Redfield & Wilton Strategies,11/15/2021,11/15/2021,1500,RV,34,44,23,-10
+Kamala Harris,Leger,11/5/2021,11/7/2021,1006,A,43,55,2,-12
+Kamala Harris,Suffolk,11/3/2021,11/5/2021,1000,RV,27.8,51.2,21,-23.4
+Kamala Harris,Redfield & Wilton Strategies,10/31/2021,10/31/2021,1500,RV,37,42,21,-5
+Kamala Harris,Leger,10/22/2021,10/24/2021,1002,A,42,56,3,-14
+Kamala Harris,HarrisX,10/20/2021,10/23/2021,2727,RV,39,45,16,-6
+Kamala Harris,Saint Leo U.,10/17/2021,10/23/2021,1000,A,47.3,44.9,7.8,2.4
+Kamala Harris,Beacon Research/Shaw & Company,10/16/2021,10/19/2021,1003,RV,45,53,2,-8
+Kamala Harris,Redfield & Wilton Strategies,10/17/2021,10/17/2021,1500,RV,37,38,25,-1
+Kamala Harris,Leger,10/8/2021,10/10/2021,1000,A,43,55,3,-12
+Kamala Harris,Redfield & Wilton Strategies,10/5/2021,10/5/2021,1500,RV,39,38,23,1
+Kamala Harris,Leger,9/24/2021,9/26/2021,1001,A,43,54,3,-11
+Kamala Harris,HarrisX,9/24/2021,9/25/2021,935,RV,42,41,16,1
+Kamala Harris,Redfield & Wilton Strategies,9/19/2021,9/20/2021,1500,RV,39,36,26,3
+Kamala Harris,Gallup,9/1/2021,9/17/2021,527,A,49,49,2,0
+Kamala Harris,Leger,9/10/2021,9/13/2021,1002,A,45,52,3,-7
+Kamala Harris,SSRS,8/3/2021,9/7/2021,2119,A,52,48,0,4
+Kamala Harris,SSRS,8/3/2021,9/7/2021,1838,RV,50,50,1,0
+Kamala Harris,Redfield & Wilton Strategies,9/4/2021,9/5/2021,1500,RV,41,34,26,7
+Kamala Harris,Leger,8/27/2021,8/30/2021,1004,A,44,53,3,-9
+Kamala Harris,YouGov,8/14/2021,8/17/2021,1500,A,39,45,17,-6
+Kamala Harris,YouGov,8/14/2021,8/17/2021,1250,RV,42,47,11,-5
+Kamala Harris,Leger,8/13/2021,8/15/2021,1005,A,49,49,2,0
+Kamala Harris,HarrisX,8/12/2021,8/14/2021,1907,RV,46,42,12,4
+Kamala Harris,HarrisX,8/4/2021,8/5/2021,1103,RV,47,43,10,4
+Kamala Harris,Leger,7/30/2021,8/1/2021,1001,A,49,50,2,-1
+Kamala Harris,Leger,7/16/2021,7/18/2021,1001,A,49,48,3,1
+Kamala Harris,Zogby,7/5/2021,7/6/2021,681,LV,55,40,5,15
+Kamala Harris,Leger,7/2/2021,7/4/2021,1003,A,51,47,3,4
+Kamala Harris,Beacon Research/Shaw & Company,6/19/2021,6/22/2021,1001,RV,50,47,3,3
+Kamala Harris,Leger,6/18/2021,6/20/2021,1001,A,44,43,13,1
+Kamala Harris,Leger,6/4/2021,6/6/2021,1004,A,45,40,15,5
+Kamala Harris,Zogby,5/26/2021,5/27/2021,868,LV,55,40,5,15
+Kamala Harris,Leger,5/21/2021,5/23/2021,1002,A,47,39,14,8
+Kamala Harris,Redfield & Wilton Strategies,5/8/2021,5/9/2021,1500,RV,49,36,14,13
+Kamala Harris,Leger,5/7/2021,5/9/2021,1003,A,47,39,14,8
+Kamala Harris,YouGov,4/25/2021,4/27/2021,1500,A,43,37,19,6
+Kamala Harris,YouGov,4/25/2021,4/27/2021,1219,RV,47,39,13,8
+Kamala Harris,SSRS,4/21/2021,4/26/2021,1004,A,53,38,10,15
+Kamala Harris,Leger,4/23/2021,4/25/2021,1003,A,47,39,15,8
+Kamala Harris,Saint Leo U.,2/7/2021,2/14/2021,1000,A,55.2,31.7,0,23.5
